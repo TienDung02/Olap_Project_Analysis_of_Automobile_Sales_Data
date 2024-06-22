@@ -3,20 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSIS_AutoSales", "SSIS_AutoSales\SSIS_AutoSales.dtproj", "{3CA4EA35-B4AF-405E-B24F-F6E9A53D85EB}"
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSIS", "SSIS\SSIS.dtproj", "{BB3F8449-92B2-4BCB-969B-B637773BF610}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3CA4EA35-B4AF-405E-B24F-F6E9A53D85EB}.Development|Default.ActiveCfg = Development
-		{3CA4EA35-B4AF-405E-B24F-F6E9A53D85EB}.Development|Default.Build.0 = Development
+		{BB3F8449-92B2-4BCB-969B-B637773BF610}.Development|Default.ActiveCfg = Development
+		{BB3F8449-92B2-4BCB-969B-B637773BF610}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2499225B-EA02-4F22-BEA7-07E8ECF4BDD1}
+		SolutionGuid = {79DC5FFC-2B45-4EE2-B6DE-BD98420C6910}
 	EndGlobalSection
 EndGlobal
