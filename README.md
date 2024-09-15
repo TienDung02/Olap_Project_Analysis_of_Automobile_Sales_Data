@@ -16,5 +16,5 @@
 ## Thông tin nhóm thành viên
 | STT | MSSV     | Họ và Tên         | Email                  |
 | :-- | :------- | :---------------- | :--------------------- |
-| 1   | 20521213 | Nông Tiến Dũng    | 21522211@gm.uit.edu.vn |
-| 2   | 21522224 | Lê Ngọc Yến Khoa  | 21521990@gm.uit.edu.vn |
+| 1   | 20521213 | Nông Tiến Dũng    | 20521213@gm.uit.edu.vn |
+| 2   | 21522224 | Lê Ngọc Yến Khoa  | 21522224@gm.uit.edu.vn |
